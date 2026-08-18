@@ -1,7 +1,7 @@
 # Wikify-your...
 A collections of manuals for scholars, curators, archivists and musicians about Wikifying a certain topic.
 
-#[#Confence](conference)
+##Confence
 [BEFORE](#before-the-event)
   * [#planning-to-wikify](before/planning.md)
   * [pitching](#pitching-to-event-organisers)
