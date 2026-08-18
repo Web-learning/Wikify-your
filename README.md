@@ -2,7 +2,7 @@
 A collections of manuals for scholars, curators, archivists and musicians about Wikifying a certain topic.
 
 [BEFORE](#before-the-event)
-  * (#planning-to-wikify)[planning.md]
+  * [#planning-to-wikify](planning.md)
   * [pitching](#pitching-to-event-organisers)
   * [communications](#communications)
   * [wiki_list_tool](#wiki-list-tool)
