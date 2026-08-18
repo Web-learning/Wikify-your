@@ -1,16 +1,16 @@
 # Wikify-your...
 A collections of manuals for scholars, curators, archivists and musicians about Wikifying a certain topic.
 
-##Confence
-[BEFORE](#before-the-event)
+## Confence
+[#BEFORE](before.md)
   * [#planning-to-wikify](before/planning.md)
   * [#pitching-to-event-organisers](before/pitching.md)
   * [#communications](before/communications.md)
   * [#wiki_list_tool](before/wiki-list-tool.md)
-  * [wikidata_event](#wikidata-for-the-event)
-  * [wikidata_people](#wikidata-for-people)
-  * [commons_before_event](#commons-before-the-event)
-  * [approaching_attendees](#approaching-attendees)
+  * [#wikidata_event](before/wikidata-for-the-event.md)
+  * [#wikidata_people](before/wikidata-for-people.md)
+  * [#commons_before_event](before/commons-before-the-event.md)
+  * [#approaching_attendees](before/approaching-attendees.md)
 
 #Confence
 
