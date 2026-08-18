@@ -1,4 +1,4 @@
-#Planning to Wikify
+# Planning to Wikify
 
 Start by identifying what you want to achieve through the conference.
 
