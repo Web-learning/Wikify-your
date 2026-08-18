@@ -1,15 +1,15 @@
 # Wikify-your...
 A collections of manuals for scholars, curators, archivists and musicians about Wikifying a certain topic.
 
-[BEFORE THE EVENT](#before-the-event)
-  * [Planning to Wikify](#planning-to-wikify)
-  * [Pitching to event organisers](#pitching-to-event-organisers)
-  * [Communications](#communications)
-  * [Wiki List tool](#wiki-list-tool)
-  * [Wikidata for the event](#wikidata-for-the-event)
-  * [Wikidata for people](#wikidata-for-people)
-  * [Commons before the event](#commons-before-the-event)
-  * [Approaching attendees](#approaching-attendees)
+[BEFORE](#before-the-event)
+  * [planning](#planning-to-wikify)
+  * [pitching](#pitching-to-event-organisers)
+  * [communications](#communications)
+  * [wiki_list_tool](#wiki-list-tool)
+  * [wikidata_event](#wikidata-for-the-event)
+  * [wikidata_people](#wikidata-for-people)
+  * [commons_before_event](#commons-before-the-event)
+  * [approaching_attendees](#approaching-attendees)
 
 CC BY SA 
 Credit to Braisher, T. and Dickison, M. (2026) Wikifying a Conference: a guide 
