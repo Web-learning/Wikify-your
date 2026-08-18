@@ -1,1 +1,1 @@
-This folder contain images for the Wikify your Wiki
+This folder contains images for the Wikify your Wiki
