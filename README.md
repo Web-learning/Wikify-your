@@ -4,7 +4,7 @@ A collections of manuals for scholars, curators, archivists and musicians about 
 ##Confence
 [BEFORE](#before-the-event)
   * [#planning-to-wikify](before/planning.md)
-  * [pitching](#pitching-to-event-organisers)
+  * [#pitching-to-event-organisers](before/pitching.md)
   * [communications](#communications)
   * [wiki_list_tool](#wiki-list-tool)
   * [wikidata_event](#wikidata-for-the-event)
