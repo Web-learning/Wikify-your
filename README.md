@@ -5,7 +5,7 @@ A collections of manuals for scholars, curators, archivists and musicians about 
 [BEFORE](#before-the-event)
   * [#planning-to-wikify](before/planning.md)
   * [#pitching-to-event-organisers](before/pitching.md)
-  * [communications](#communications)
+  * [#communications](before/communications,md)
   * [wiki_list_tool](#wiki-list-tool)
   * [wikidata_event](#wikidata-for-the-event)
   * [wikidata_people](#wikidata-for-people)
