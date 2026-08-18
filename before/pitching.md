@@ -1,4 +1,4 @@
-Pitching to event organisers
+# Pitching to event organisers
 
 Approach the organisers as early as possible.
 
