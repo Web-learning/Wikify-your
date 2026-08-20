@@ -2,10 +2,11 @@
 A collections of manuals for scholars, curators, archivists and musicians about Wikifying a certain topic.
 
 ## ....Heritage Tour
-![Title Page](https://github.com/user-attachments/assets/77ce41e1-ecc1-463c-a08b-93594233315d)
+<img src="https://github.com/user-attachments/assets/77ce41e1-ecc1-463c-a08b-93594233315d" width=50% height=50%>
 
 ## ....Conference
-![Title Page](https://github.com/user-attachments/assets/9ee80bd9-c362-493e-b128-198b9cbd4598)
+<img src="https://github.com/user-attachments/assets/9ee80bd9-c362-493e-b128-198b9cbd4598" width=50% height=50%>
+
 [#BEFORE](before.md)
   * [#planning-to-wikify](before/planning.md)
   * [#pitching-to-event-organisers](before/pitching.md)
